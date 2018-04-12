@@ -34,6 +34,6 @@ void selection_sort(int arr[], int n){
        }
      arr[i]+=arr[j];
      arr[j]= arr[i]-arr[j];
-     arr[j]= arr[i]-arr[j];
+     arr[i]= arr[i]-arr[j];
    }
 }
