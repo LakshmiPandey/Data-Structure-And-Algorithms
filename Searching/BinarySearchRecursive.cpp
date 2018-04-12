@@ -1,5 +1,5 @@
 
-/
+//--------------------Recursive method--------------------
 
 #include<iostream>
 using namespace std;
@@ -40,8 +40,8 @@ int binary_search(arr[], int b, int l, int ele)
         if (arr[mid] == ele)  
             return mid;
         if (arr[mid] > x) 
-            return (binarySearch(arr, l, mid-1, x));
-        return (binarySearch(arr, mid+1, r, x));
+            return (binary_Search(arr, l, mid-1, x));
+        return (binary_Search(arr, mid+1, r, x));
    }
   return(-1);
 }
