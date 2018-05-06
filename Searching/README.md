@@ -4,7 +4,7 @@ Basically two methods used are -------------
 
 _______________________________________________________
 
-1) LINEAR SEARCH
+1) *LINEAR SEARCH*
 ____________________
 *Linear search, also known as sequential search, is a process that checks every element in the list
   sequentially until the desired element is found.
@@ -17,7 +17,7 @@ ____________________
 
 _____________________________________________________________________
 
-2) BINARY SEARCH
+2) *BINARY SEARCH*
 ___________________
 
 *Binary search, also known as half-interval search, logarithmic search, or binary chop,
@@ -28,7 +28,7 @@ ___________________
   ________________________________________________________________________________________________________________________________
   
   
-  Important Differences-----------
+  *Important Differences*-----------
   __________________________________
 
  *Input data needs to be sorted in Binary Search and not in Linear Search
