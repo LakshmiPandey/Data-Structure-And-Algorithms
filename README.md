@@ -1,6 +1,6 @@
-# Algorithms-and-Data-Structure
+# Algorithms-and-Data-Structure-and-Algorithms
  
- It is basically containd all the " DATA STRUCTURE" algorithms codes 
+ It is basically collection of all the " DATA STRUCTURE" algorithms codes 
  in C++
  The algorithm includes the topic
  * Searching Element in array
