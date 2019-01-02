@@ -1,4 +1,4 @@
-# Algorithms-and-Data-Structure-and-Algorithms
+# Data-Structure-and-Algorithms
  
  It is basically collection of all the " DATA STRUCTURE" algorithms codes 
  in C++
